@@ -12,14 +12,7 @@ An interactive retail sales analysis covering products, customers, stores, emplo
 
 A Power BI project for exploring e-commerce sales performance, customer behavior, product performance, store results, and key business metrics.
 
-## Project Structure
 
-Each project should keep its related resources together, including:
-
-- A project-specific `README.md`
-- Source data and data dictionaries
-- Power BI reports and supporting assets
-- Documentation for calculated measures and important assumptions
 
 ## Tools and Technologies
 
@@ -27,7 +20,3 @@ Each project should keep its related resources together, including:
 - Power Query
 - DAX
 - CSV and other structured data sources
-
-## Purpose
-
-The goal of this repository is to maintain a clear, reusable collection of Power BI work while documenting the data model, analytical goals, and insights behind each dashboard.
