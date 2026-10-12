@@ -31,5 +31,10 @@ The project uses a fact-and-dimension data model. The central sales table record
 
 ## Dashboards Preview
 
-![Sales Dashboard](dashboard-1.png)
+### Dashboard 1
 
+![Sales Dashboard](Dashboard-1.png)
+
+### Dashboard 2
+
+![Sales Dashboard 2](dashboard%202.png)
