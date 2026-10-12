@@ -28,3 +28,8 @@ The project uses a fact-and-dimension data model. The central sales table record
 - Power Query for data preparation and transformation
 - DAX for calculated measures and KPIs
 - CSV files as the source data
+
+## Dashboards Preview
+
+![Sales Dashboard](dashboard-1.png)
+
