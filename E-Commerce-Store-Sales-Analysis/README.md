@@ -19,7 +19,7 @@ An interactive Power BI project featuring two dashboards for analyzing e-commerc
 ## Dashboard Preview
 
 ### Overall Sales Analysis
-![E-Commerce Store Sales Analysis Dashboard](images/ecommerce-sales-dashboard.png)
+![E-Commerce Store Sales Analysis Dashboard](Overall_Dashboard.png)
 
 ### Sales Forecasting
-![Sales Forecasting Dashboard](images/sales-forecasting-dashboard.png)
+![Sales Forecasting Dashboard](Forecasting_Dashboard.png)
